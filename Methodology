@@ -1,0 +1,53 @@
+# 📌 Methodology: Bright Coffee Shop Sales Analysis
+
+This methodology outlines the steps taken to process and analyze sales data from Bright Coffee Shop and generate business insights.
+
+---
+
+## 1. Planning & Architecture
+- Used **Miro** to design the data flow diagram, outlining:
+  - Source data (Excel file)
+  - Processing and storage (Snowflake)
+  - Output (Excel dashboards, Canva presentation)
+- Identified key metrics for analysis:
+  - Revenue per product
+  - Sales by time interval
+  - Quantity sold by category
+
+---
+
+## 2. Data Processing (ETL)
+- Converted the Excel dataset to CSV
+- Loaded the CSV into **Snowflake**
+- Performed SQL transformations:
+  - Casted `unit_price` from string to float
+  - Created `transaction_time_bucket` column (30-min intervals)
+  - Computed `total_amount = unit_price * transaction_qty`
+  - Grouped by product category and time intervals
+
+---
+
+## 3. Data Analysis
+- Exported the processed table to **Excel**
+- Created pivot tables and charts to analyze:
+  - Total revenue by product and category
+  - Peak sales hours
+  - Best- and worst-performing items
+
+---
+
+## 4. Visualization & Reporting
+- Built an executive dashboard using **Excel**
+- Designed presentation slides using **Canva** with:
+  - Data-driven insights
+  - Business-friendly visuals
+- Summarized insights and proposed recommendations for:
+  - Increasing revenue
+  - Targeted marketing
+  - Stock and time optimization
+
+---
+
+## 5. Version Control
+- Pushed all cleaned data, queries, visuals, and reports to a **GitHub** repository
+- Maintained structured folders for transparency and reproducibility
