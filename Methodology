@@ -21,7 +21,7 @@ This methodology outlines the steps taken to process and analyze sales data from
 - Loaded the CSV into **Snowflake**
 - Performed SQL transformations:
   - Casted `unit_price` from string to float
-  - Created `transaction_time_bucket` column (30-min intervals)
+  - Created `transaction_time_bucket` column 
   - Computed `total_amount = unit_price * transaction_qty`
   - Grouped by product category and time intervals
 
