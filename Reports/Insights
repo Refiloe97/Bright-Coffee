@@ -1,38 +1,28 @@
-🔍 Key Insights
-☕ The Bright Coffee generated the most revenue across all months.
+🔍KEY INSIGHTS 
 
-🔥 Peak sales occur between [08:00 – 10:00 AM].
-
-🧊 Evening sales drop significantly — opportunity for targeted promotions.
-
-🧾 A few underperforming items can be promoted or replaced.
+☕ The Bright Coffee generated the most revenue across all months. 
+🔥 Peak sales occur between [08:00 – 10:00 AM]. 
+🧊 Evening sales drop significantly — opportunity for targeted promotions. 
+🧾 A few underperforming items can be promoted or replaced. 
 
 
+✅ RECOMMENDATION  
 
-(Replace placeholders with your actual insights once your analysis is done)
+💡 Morning promotions: Offer bundled deals during peak hours. 
+📉 Boost low performers: Use discounts or highlight in-store. 
+🕒 Optimize staff scheduling based on high-traffic time buckets. 
+📲 Automate daily reports and consider loyalty programs during peak slots. 
 
-✅ Recommendations
-💡 Morning promotions: Offer bundled deals during peak hours.
 
-📉 Boost low performers: Use discounts or highlight in-store.
+🧭 PROJECT WORKFLOW 
 
-🕒 Optimize staff scheduling based on high-traffic time buckets.
+-Planning & Architecture. 
+-Designed a data flow diagram in Miro to visualize the pipeline.   
+-Data Processing (Snowflake + SQL). 
+-Cleaned, transformed, and calculated revenue columns.
 
-📲 Automate daily reports and consider loyalty programs during peak slots.
+Analysis & Visualization 
 
-🧭 Project Workflow
-Planning & Architecture
-
-Designed a data flow diagram in Miro to visualize the pipeline
-
-Data Processing (Snowflake + SQL)
-
-Cleaned, transformed, and calculated revenue columns
-
-Analysis & Visualization
-
-Used Excel and Canva to generate charts and dashboards
-
-Reporting & Presentation
-
-Compiled insights and business recommendations into a CEO-ready report
+-Used Excel and Canva to generate charts and dashboards. 
+-Reporting & Presentation. 
+-Compiled insights and business recommendations into a CEO-ready report.
