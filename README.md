@@ -15,7 +15,7 @@
 |-------------------|----------------------|-------------------------------------|
 | Data Cleaning     | Snowflake SQL        | Fixed messy pricing data            |
 | Time Analysis     | Excel Pivot Tables   | Identified 8-10AM as peak hours     |
-| Visualization     | Power BI             | Created CEO-ready dashboards        |
+| Visualization     | Canva            | Created CEO-ready dashboards        |
 
 ## 📂 Repository Structure
 
