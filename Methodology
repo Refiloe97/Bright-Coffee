@@ -1,9 +1,7 @@
-# 📌 Methodology: Bright Coffee Shop Sales Analysis
+ 📌 Methodology: Bright Coffee Shop Sales Analysis
 
 This methodology outlines the steps taken to process and analyze sales data from Bright Coffee Shop and generate business insights.
-
 ---
-
 ## 1. Planning & Architecture
 - Used **Miro** to design the data flow diagram, outlining:
   - Source data (Excel file)
