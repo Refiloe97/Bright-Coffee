@@ -1,16 +1,59 @@
-👩🏾‍💻 About Me
-Data Analyst in the Making | Coffee Data Enthusiast | Storyteller with Numbers
+ 👋 Hi, I'm Refiloe Mabuka
 
-I'm an aspiring data analyst currently immersed in a rigorous data analytics bootcamp, where I'm transforming raw data into actionable insights—one SQL query at a time. ☕📊
+🎯 ** Data Analyst | BSc Computer Science Student |Phlebotomist | Turning data into decisions**
 
-Why This Project?
-This end-to-end analysis of Bright Coffee Shop’s sales is my first hands-on experience with real-world data workflows:
+Welcome to my GitHub! 
+## 🔍 About Me
 
-SQL Magic: Cleaned and transformed messy sales data in Snowflake
+- 🎓 BSc in Computer Science (in progress)
+- 💼 Background in healthcare & customer service, now transitioning into tech
+- 🧠 Passionate about problem-solving, data storytelling, and continuous learning
+- 📊 Focused on projects that provide business insights and measurable impact
+- 📍 Based in South Africa
 
-Visual Storytelling: Designed dashboards to reveal peak hours and top products
+---
 
-CEO-Ready Recommendations: Proposed data-driven strategies to boost revenue
+## 🛠️ Skills & Tools
 
-My Mission:
-To bridge the gap between data and business decisions—with clarity, creativity, and a dash of coffee-fueled passion.
+| Category | Tools / Languages |
+|----------------------|--------------------------------------------------|
+| **Languages** | SQL, Python (Pandas, NumPy, Matplotlib), C++ |
+| **Databases** | Snowflake, MySQL |
+| **Analytics Tools** | Excel (Pivot Tables, Formulas), Power BI |
+| **Visualization** | Tableau, Canva, PowerPoint, Miro |
+| **Other Tools** | Git & GitHub, Jupyter Notebook, VS Code |
+
+---
+
+## 📁 Featured Projects
+
+### 🔦 Bright Coffee Shop Sales Analysis (BRIGHTLIGHT)
+> A full-stack data analytics project where I analyzed product sales, customer behavior, and seasonal trends to help the CEO make data-driven decisions.
+- Used **Snowflake** to clean and transform raw sales data
+- Created interactive **Excel dashboards** with pivot charts & slicers
+- Built a Miro diagram for project planning and methodology
+- Designed visual storytelling slides using **Canva**
+- Delivered actionable insights like best-selling products, sales trends, and performance by category
+
+
+
+---
+
+## 🔧 What I'm Working On
+
+- Improving my Python & SQL for advanced analytics
+- Studying Data Structures & Algorithms as part of my degree
+- Building a portfolio of industry-focused data analysis projects
+- Learning how to automate reports using Python
+
+---
+
+## 🌱 Let’s Connect!
+
+If you're looking to collaborate, have any suggestions, or just want to chat about data, feel free to reach out!
+
+📧 Email: refiloeroyal@example.com
+🔗
+---
+
+_“The goal is to turn data into information, and information into insight.” – Carly Fiorina_
